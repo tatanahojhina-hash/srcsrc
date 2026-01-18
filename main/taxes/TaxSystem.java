@@ -1,4 +1,4 @@
-package takes;
+package taxes;
 
 public class TaxSystem {
     public int calcTaxFor(int debit, int credit) {
